@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assessment" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assessment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chemistry" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>chemistry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework" Collapsed="true">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>coursework.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engineering" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>engineering.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAACAAAAABAAAAAAAAAgAA=</HashCode>
+      <FileName>exam.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mathematics" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Mathematics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAACAAAgAA=</HashCode>
+      <FileName>module.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OffTime" Collapsed="true">
+    <Position X="16" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>off_time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnTime" Collapsed="true">
+    <Position X="13.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>on_time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Physics" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>physics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAIAAAAAAAAAEEAAAAAGCAAAAAAA=</HashCode>
+      <FileName>subject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAACAAAgAA=</HashCode>
+      <FileName>Test.h</FileName>
+      <NewMemberFileName>exam.h</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time" Collapsed="true">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

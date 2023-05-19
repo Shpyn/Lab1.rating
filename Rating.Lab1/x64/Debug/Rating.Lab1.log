@@ -1,0 +1,29 @@
+﻿  Rating.Lab1.cpp
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,43): error C2665: "Mathematics::Mathematics": ни одна перегруженная функция не может преобразовать все типы аргументов
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Mathematics.h(10,1): message : может быть "Mathematics::Mathematics(Mathematics &&)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,43): message : "Mathematics::Mathematics(Mathematics &&)": невозможно преобразовать аргумент 1 из "int" в "Mathematics &&"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,44): message : Причина: невозможно преобразовать "int" в "Mathematics"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,44): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Mathematics.h(10,1): message : или       "Mathematics::Mathematics(const Mathematics &)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,43): message : "Mathematics::Mathematics(const Mathematics &)": невозможно преобразовать аргумент 1 из "int" в "const Mathematics &"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,44): message : Причина: невозможно преобразовать "int" в "const Mathematics"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,44): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Mathematics.h(8,5): message : или       "Mathematics::Mathematics(const std::string &)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,43): message : "Mathematics::Mathematics(const std::string &)": невозможно преобразовать аргумент 1 из "int" в "const std::string &"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,44): message : Причина: невозможно преобразовать "int" в "const std::string"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,44): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(40,43): message : при попытке сопоставить список аргументов "(int)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,43): error C2665: "Mathematics::Mathematics": ни одна перегруженная функция не может преобразовать все типы аргументов
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Mathematics.h(10,1): message : может быть "Mathematics::Mathematics(Mathematics &&)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,43): message : "Mathematics::Mathematics(Mathematics &&)": невозможно преобразовать аргумент 1 из "int" в "Mathematics &&"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,44): message : Причина: невозможно преобразовать "int" в "Mathematics"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,44): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Mathematics.h(10,1): message : или       "Mathematics::Mathematics(const Mathematics &)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,43): message : "Mathematics::Mathematics(const Mathematics &)": невозможно преобразовать аргумент 1 из "int" в "const Mathematics &"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,44): message : Причина: невозможно преобразовать "int" в "const Mathematics"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,44): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Mathematics.h(8,5): message : или       "Mathematics::Mathematics(const std::string &)"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,43): message : "Mathematics::Mathematics(const std::string &)": невозможно преобразовать аргумент 1 из "int" в "const std::string &"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,44): message : Причина: невозможно преобразовать "int" в "const std::string"
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,44): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+E:\Учеба\ООП\Rating.Lab1\Rating.Lab1\Rating.Lab1.cpp(43,43): message : при попытке сопоставить список аргументов "(int)"
